@@ -4,5 +4,6 @@ este será mi primer repositorio... chido
 algo diferente
 escribiendo en diferentes lineas
 ...
-<h1> aquí seguimos <h1>
+<h1> aquí seguimos <h1/>
+
 
