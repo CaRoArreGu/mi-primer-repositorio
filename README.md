@@ -4,6 +4,7 @@ este será mi primer repositorio... chido
 algo diferente
 
 escribiendo en diferentes lineas
+
 ...
 <h1> aquí seguimos conociendo el editor <h1/>
 
